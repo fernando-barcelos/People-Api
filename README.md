@@ -16,11 +16,11 @@ API REST desenvolvida em Java com Spring Boot para realizar operações CRUD (Cr
 - Deletar pessoa
 
 ## Endpoints
-- POST /peoples/add - Criar nova pessoa
-- GET /peoples/all - Listar todas as pessoas
-- GET /peoples/{id} - Buscar pessoa por ID
-- PUT /peoples/{id} - Atualizar pessoa
-- DELETE /peoples/{id} - Deletar pessoa
+- POST /peoples/id/add - Criar nova pessoa
+- GET /peoples/id/all - Listar todas as pessoas
+- GET /peoples/id/{id} - Buscar pessoa por ID
+- PUT /peoples/id/{id} - Atualizar pessoa
+- DELETE /peoples/id/{id} - Deletar pessoa
 
 ## Como Executar
 1. Clone o repositório
